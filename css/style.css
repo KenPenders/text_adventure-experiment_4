@@ -1,0 +1,168 @@
+/* reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+
+*{
+    box-sizing: border-box;
+}
+
+a{
+    color: inherit; /* Inherit from body --> 'color:' */
+    text-decoration: none;
+}
+
+img{ /* responsive images */
+    max-width: 100%;
+    height: auto;
+}
+/* [id="A2"] {
+    background-color: red;
+} */
+body {
+    
+    background-color: white;
+    color: black;
+
+    font-size: 16px;
+
+}
+
+h2 {
+    font-family: 'Mali', cursive;
+    font-weight: bold;
+    font-size: 2em;
+    margin: 50px;
+}
+
+h3{
+    font-family: 'Mali', cursive;
+    font-size: 2.5em;
+    margin:50px;
+}
+
+p {
+    font-family: 'Mali', cursive;
+    font-size: 1rem;
+    padding-bottom: 5vh;
+}
+
+
+
+#timeProgress {
+    width: 80vw;
+    padding: 0 !important;
+    margin-left: 50vw;
+    transform: translate(-50%,0);
+    background-color: #FCECC9;
+    border-radius: 1rem;
+}
+    
+#progressBar {
+    width: 1%;
+    height: 30px;
+    border-radius: 1rem;
+    background-color: black;
+}
+
+section {
+    padding: 10vh 20vw 10vh 20vw;
+}
+#options {
+    display: flex;
+}
+#options div{
+    width: calc(100%/2);
+    padding: 0vh 2vw 0vh 2vw;
+}
+button {
+    padding: 1vh 2vw 1vh 2vw;
+    border-width: 0;
+    border-radius: 1rem;
+    font-size: 1.2rem;
+
+    background-color: #F93943;
+    color: white;
+
+    cursor: pointer;
+
+    -o-transition: all 500ms;
+    -webkit-transition: all 500ms;
+    -moz-transition: all 500ms;
+    transition: all 500ms;
+}
+button:hover {
+    background-color: #FCB0B3;
+    color: black;
+    
+
+    -webkit-transform: scale(0.9);
+    -o-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    transform: scale(0.9);
+
+    -webkit-filter: drop-shadow(0.1rem 0.1rem 0.3rem rgba(66,62,59,0.6));
+    filter: drop-shadow(0.1rem 0.1rem 0.3rem rgba(66,62,59,0.6));
+}
+#reset-button {
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+    line-height: 1;
+    position: fixed; 
+    z-index: 1;
+    right: 5vw;
+    top: 2vh;
+    padding: unset !important;
+    
+}
+
+#text-container {
+    position: relative;
+}
+#dialoog1, #dialoog2, #dialoog3, #option-A, #button-A, #option-B, #button-B {
+    opacity: 1;
+    transition: all 3s ease;
+    -moz-transition: all 3s ease;
+    -o-transition: all 3s ease;
+    -webkit-transition: all 3s ease;
+}
+.visible {
+    opacity: 1 !important;
+}
+#dialoog1, #dialoog2, #dialoog3 {
+    background-color: white;
+    
+    width: 60vw;
+}
+#dialoog1 {
+    z-index: 0;
+    transition-delay: 0s; 
+    -webkit-transition-delay: 0s; 
+    -o-transition-delay: 0s;
+    -moz-transition-delay: 0s;
+}
+#dialoog2 {
+    transition-delay: 10s;
+    -webkit-transition-delay: 10s; 
+    -o-transition-delay: 10s;
+    -moz-transition-delay: 10s;
+}
+#dialoog3 {
+    transition-delay: 20s;
+    -webkit-transition-delay: 20s; 
+    -o-transition-delay: 20s;
+    -moz-transition-delay: 20s;
+}
+#option-A, #button-A {
+    transition-delay: 23s;
+    -webkit-transition-delay: 23s; 
+    -o-transition-delay: 23s;
+    -moz-transition-delay: 23s;
+} 
+#option-B, #button-B {
+    transition-delay: 23s;
+    -webkit-transition-delay: 23s; 
+    -o-transition-delay: 23s;
+    -moz-transition-delay: 23s;
+}
+
+

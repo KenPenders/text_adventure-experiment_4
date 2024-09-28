@@ -1,0 +1,482 @@
+{
+    "dialogueTree": {
+        "0": {
+            "gekozenLaag": "0",
+            "dialogen": {
+                "dialoog1": "Je hebt een mooie droom. Je staat voor volle zalen die alleen jouw stem willen horen.",
+                "dialoog2": "Jij wil je eerste noot zingen, maar dit klinkt als het gelach van een idiote collega. Het geluid gaat over in het geluid van jouw wekker",
+                "dialoog3": "Dit blijkt in werkelijkheid je wekker te zijn. Vandaag is de kerstviering op werk, waarbij je elkaar iets hoort te geven."
+            },
+            
+            "opties": {
+                "optie1": "Je besluit met tegenzin toch maar je bed uit te gaan en naar je werk te fietsen",
+                "optie2": "Je blijft liggen. Je denkt: 'Ik heb niet zo'n trek in de kerstviering vandaag.'"
+            },
+            "welkeOpties": {
+                "optie1": "1A",
+                "optie2": "1B"
+            }
+        },
+    
+    
+        "1A": {
+            "gekozenLaag": "1A",
+            "dialogen": {
+                "dialoog1": "[Flash forward naar je deelname aan de kerstviering] Jouw idiote collega heeft je een groot spekje uit karton, een schoenendoos en tape gemaakt. Na overhandiging van dit oprechte cadeau, wuif je het snel weg. ",
+                "dialoog2": "Je krankzinnige collega: 'En wat heb je voor mij?'. Je zegt hem dat je zijn cadeautje vergeten bent. Je collega begint zachtjes te huilen, nadat hij beseft dat jij het niet 'vergeten' bent.",
+                "dialoog3": "Je baas spreekt je toe: 'Jouw collega maakt een prachtig cadeau voor jou en jij neemt nog niet eens de moeite om met ook maar iets aan te komen!!!'. 'Koop hem nou dan snel nog iets', stelt je baas voor. Je voelt je vervolgens."
+            },
+            
+            "opties": {
+                "optie1": "Je begint je enigzins schuldig te voelen.",
+                "optie2": "Je denkt: 'F*ck deze kerstviering' en besluit te vertrekken "
+            },
+            "welkeOpties": {
+                "optie1": "2A",
+                "optie2": "2B"
+            }
+
+        },
+        "1B": {
+            "gekozenLaag": "1B",
+            "dialogen": {
+                "dialoog1": "Wat word je smoes?",
+                "dialoog2": "Heftige diarree, lekke banden",
+                "dialoog3": "Wat ga je bedenken?"
+            },
+            
+            "opties": {
+                "optie1": "Je bedenkt de beste smoes met de meest smeuïge details ",
+                "optie2": "Je vertelt de WAARHEID"
+            },
+            "welkeOpties": {
+                "optie1": "8A",
+                "optie2": "8B"
+            }
+
+        },
+        "2A": {
+            "gekozenLaag": "2A",
+            "dialogen": {
+                "dialoog1": "Jij excuseert je van de tafel en gaat hardop nadenken: 'Wat moet ik die randebiel kopen.’ ",
+                "dialoog2": "Je werpt een blik naar buiten toe, naar het parkeerterrein. Hier staat een groep vlaai verkopers met een kraampje.",
+                "dialoog3": "Ze komen niet helemaal fris en betrouwbaar over. Maar je hebt wel een cadeautje voor die onnozele hals nodig"
+            },
+            
+            "opties": {
+                "optie1": "Jij loopt naar buiten toe, wat moet je ook anders",
+                "optie2": "Je denkt de hel ermee: ik geef hem die lullige VVV-cadeaubon van  20 piek "
+            },
+            "welkeOpties": {
+                "optie1": "3A",
+                "optie2": "3B"
+            }
+
+        },
+        "2B": {
+            "gekozenLaag": "2B",
+            "dialogen": {
+                "dialoog1": "Je collega is nog steeds helemaal van slag, maar geeft een mooi zelfgemaakt kerstkaartje aan je bij jouw weg naar de uitgang.",
+                "dialoog2": "Je weet niet wat je moet zeggen. Deze situatie is heel ongemakkelijk voor je geworden.",
+                "dialoog3": "Je weet niet wat je moet zeggen. Deze situatie is heel ongemakkelijk voor je geworden."
+            },
+            
+            "opties": {
+                "optie1": "Het schuldgevoel begint op te spelen en je bedenkt je",
+                "optie2": "Jij lult je eruit"
+            },
+            "welkeOpties": {
+                "optie1": "2A",
+                "optie2": "4B"
+            }
+
+        },
+        "3A": {
+            "gekozenLaag": "3A",
+            "dialogen": {
+                "dialoog1": "Je spreekt de verkopers aan. 'Hé, die zelfgemaakte vlaai ziet er zeker lekker uit.'",
+                "dialoog2": "De verkoper: Oh nee, deze komen uit een fabriek. Een vuurwerkfabriek.",
+                "dialoog3": "Jij: 'Oh, dat is jammer. Ik dacht dat het vlaai en wou er wel eentje kopen'",
+                "dialoog4": "Een verkoper snelt je toe. 'Wacht even! Wij waren natuurlijk alleen maar een beetje aan het dollen met je.'"
+            },
+            
+            "opties": {
+                "optie1": "Je vertouwt het wel. Of het kan je gewoon niks interesseren",
+                "optie2": "Je denkt: “Toch maar niet”"
+            },
+            "welkeOpties": {
+                "optie1": "5A",
+                "optie2": "5B"
+            }
+
+        },
+        "3B": {
+            "gekozenLaag": "3B",
+            "dialogen": {
+                "dialoog1": "Je denkt de hel ermee: ik geef hem die lullige VVV-cadeaubon van  20 piek ",
+                "dialoog2": "Je denkt de hel ermee: ik geef hem die lullige VVV-cadeaubon van  20 piek ",
+                "dialoog3": "Je denkt de hel ermee: ik geef hem die lullige VVV-cadeaubon van  20 piek "
+            },
+            
+            "opties": {
+                "optie1": ".",
+                "optie2": ".”"
+            },
+            "welkeOpties": {
+                "optie1": ".",
+                "optie2": "."
+            }
+
+        },
+        "4B": {
+            "gekozenLaag": "4B",
+            "dialogen": {
+                "dialoog1": "'Adios!' Jij loopt de deur uit en wilt op je fiets stappen.",
+                "dialoog2": "Hier staat een groep vlaai verkopers met een kraampje. Ze komen niet helemaal fris en betrouwbaar over ",
+                "dialoog3": "Maar zo kun je de gemoederen op je werk toch alsnog een beetje sussen ",
+                "dialoog4": "."
+            },
+            
+            "opties": {
+                "optie1": "Jij besluit ze aan te spreken.",
+                "optie2": "Je denkt de hel ermee: ik geef hem die lullige VVV-cadeaubon van 20 piek wel!"
+            },
+            "welkeOpties": {
+                "optie1": "3A",
+                "optie2": "3B"
+            }
+
+        },
+        "5A": {
+            "gekozenLaag": "5A",
+            "dialogen": {
+                "dialoog1": "Jij vraagt welke smaak het is.",
+                "dialoog2": "De verkoper zegt, deels buiten adem: 'kersen'.",
+                "dialoog3": "De verkoper zegt, deels buiten adem: 'kersen'."
+            },
+            
+            "opties": {
+                "optie1": "Je koopt de vlaai",
+                "optie2": "Je vindt kersen niet zo lekker en weigert."
+            },
+            "welkeOpties": {
+                "optie1": "6A",
+                "optie2": "6B"
+            }
+
+        },
+        "5B": {
+            "gekozenLaag": "5B",
+            "dialogen": {
+                "dialoog1": ".",
+                "dialoog2": ".",
+                "dialoog3": ". ",
+                "dialoog4": "."
+            },
+            
+            "opties": {
+                "optie1": "J",
+                "optie2": "."
+            },
+            "welkeOpties": {
+                "optie1": ".",
+                "optie2": "."
+            }
+
+        },
+        "6A": {
+            "gekozenLaag": "6A",
+            "dialogen": {
+                "dialoog1": "Je geeft de vlaai een kaartje met de naam van jouw idiote collega. Je komt terug bij je baas. Je baas wil hem even proeven",
+                "dialoog2": "Je baas snijdt een stukje af en loopt naar een tafel met een slagroomspuit. Op zijn weg daarnaartoe struikelt hij en het stukje vlaai ontploft na de val wanneer het de grond raakt. ",
+                "dialoog3": "Een beker wordt van het bureau van de baas geblazen. Je baas: 'Ik had wel dood kunnen zijn! Je collega had wel dood kunnen zijn!' "
+            },
+            
+            "opties": {
+                "optie1": "Je maakt duizendmaal excuses  en vraagt wat er met de vlaai gedaan moet worden.",
+                "optie2": "Je biecht op dat je deze vlaai op de parkeerplaats hebt gekocht van verdachte verkopers en dat je dit niet had kunnen weten."
+            },
+            "welkeOpties": {
+                "optie1": "14A",
+                "optie2": "14B"
+            }
+
+        },
+        "6B": {
+            "gekozenLaag": "6B",
+            "dialogen": {
+                "dialoog1": "De verkoper bedenkt zich snel en zegt: 'We hebben ook pudding kruimel'",
+                "dialoog2": "De verkoper bedenkt zich snel en zegt: 'We hebben ook pudding kruimel'",
+                "dialoog3": "De verkoper bedenkt zich snel en zegt: 'We hebben ook pudding kruimel'"
+            },
+            
+            "opties": {
+                "optie1": "Je koopt de vlaai",
+                "optie2": "Je vindt pudding kruimel niet zo lekker en weigert"
+            },
+            "welkeOpties": {
+                "optie1": "6A",
+                "optie2": "7B"
+            }
+
+        },
+        "7B": {
+            "gekozenLaag": "7B",
+            "dialogen": {
+                "dialoog1": "Je denkt de hel ermee: ik geef hem die lullige VVV-cadeaubon van  20 piek ",
+                "dialoog2": "Je denkt de hel ermee: ik geef hem die lullige VVV-cadeaubon van  20 piek ",
+                "dialoog3": "Je denkt de hel ermee: ik geef hem die lullige VVV-cadeaubon van  20 piek "
+            },
+            
+            "opties": {
+                "optie1": "klaar",
+                "optie2": "klaar"
+            },
+            "welkeOpties": {
+                "optie1": "0",
+                "optie2": "0"
+            }
+
+        },
+        "8A": {
+            "gekozenLaag": "8A",
+            "dialogen": {
+                "dialoog1": "Maar hoe ga je je dag dan vullen... of verspillen?",
+                "dialoog2": "Drie van je beste vrienden zijn vrij vandaag",
+                "dialoog3": "De zon schijnt! Dit is jouw dag, je weet het zeker."
+            },
+            
+            "opties": {
+                "optie1": "Je doet aan welverdiende 'quality time' vandaag, lekker in je eentje.  ",
+                "optie2": "Je nodigt je vrienden uit voor een leuk kerstfeestje thuis"
+            },
+            "welkeOpties": {
+                "optie1": "9A",
+                "optie2": "9B"
+            }
+
+        },
+        "8B": {
+            "gekozenLaag": "8B",
+            "dialogen": {
+                "dialoog1": "Je baas belt je op om te vragen waar je blijft.",
+                "dialoog2": "Je baas spreekt je toe: 'Jouw collega heeft een prachtig cadeau voor jou gemaakt en jij komt niet eens opdagen!'",
+                "dialoog3": "Je baas spreekt je toe: 'Jouw collega heeft een prachtig cadeau voor jou gemaakt en jij komt niet eens opdagen!'"
+            },
+            
+            "opties": {
+                "optie1": "Je laat de baas uitrazen en wacht de komende weken tot de storm weer gaat liggen",
+                "optie2": "Je besluit toch te verschijnen vandaag. Je voelt je namelijk toch wel schuldig"
+            },
+            "welkeOpties": {
+                "optie1": "10A",
+                "optie2": "1A"
+            }
+
+        },
+        "9A": {
+            "gekozenLaag": "9A",
+            "dialogen": {
+                "dialoog1": "De dag gaat voorbij met rassen schreden. De volgende zak chips ligt in je ooghoek op je te loeren. Nog net niet met neonverlichting.",
+                "dialoog2": "Uit verveling kijk je de zoveelste herhaling van 'Home Alone' en 'Die Hard' op de lineaire televisie. ",
+                "dialoog3": "Is dit een topdag geworden?"
+            },
+            
+            "opties": {
+                "optie1": "Yippee-Ki-Yay, Motherf*cker!",
+                "optie2": "'Was ik maar gewoon naar de kerstviering toe gegaan.'"
+            },
+            "welkeOpties": {
+                "optie1": "11A",
+                "optie2": "11B"
+            }
+
+        },
+        "9B": {
+            "gekozenLaag": "9B",
+            "dialogen": {
+                "dialoog1": "Je hebt nauwelijks wat in huis voor het feestje. En het lijkt er wel een zwijnenstal.",
+                "dialoog2": "Jij en je vrienden besluiten naar een house party in de buurt te gaan. ",
+                "dialoog3": "Bij the place to be aangekomen, wordt je geroepen door een, voor jou, bekende stem. Het is jouw debiele collega van werk!"
+            },
+            
+            "opties": {
+                "optie1": "Je doet alsof je: blind, verziend, doof, debiel en/of een lul bent. ",
+                "optie2": "Je begroet je collega, die onder andere met je baas, op het feestje is."
+            },
+            "welkeOpties": {
+                "optie1": "12A",
+                "optie2": "12B"
+            }
+
+        },
+        "10A": {
+            "gekozenLaag": "10A",
+            "dialogen": {
+                "dialoog1": "Je laat de baas uitrazen en wacht de komende weken tot de storm weer gaat liggen",
+                "dialoog2": "Je laat de baas uitrazen en wacht de komende weken tot de storm weer gaat liggen",
+                "dialoog3": "Je laat de baas uitrazen en wacht de komende weken tot de storm weer gaat liggen"
+            },
+            
+            "opties": {
+                "optie1": "klaar",
+                "optie2": "klaar"
+            },
+            "welkeOpties": {
+                "optie1": "0",
+                "optie2": "0"
+            }
+
+        },
+        "11A": {
+            "gekozenLaag": "11A",
+            "dialogen": {
+                "dialoog1": "Yippee-Ki-Yay, Motherf*cker!",
+                "dialoog2": "Yippee-Ki-Yay, Motherf*cker!",
+                "dialoog3": "Yippee-Ki-Yay, Motherf*cker!"
+            },
+            
+            "opties": {
+                "optie1": "klaar",
+                "optie2": "klaar"
+            },
+            "welkeOpties": {
+                "optie1": "0",
+                "optie2": "0"
+            }
+
+        },
+        "11B": {
+            "gekozenLaag": "11B",
+            "dialogen": {
+                "dialoog1": "‘Was ik maar gewoon naar de kerstviering toe gegaan.’",
+                "dialoog2": "‘Was ik maar gewoon naar de kerstviering toe gegaan.’",
+                "dialoog3": "‘Was ik maar gewoon naar de kerstviering toe gegaan.’"
+            },
+            
+            "opties": {
+                "optie1": "klaar",
+                "optie2": "klaar"
+            },
+            "welkeOpties": {
+                "optie1": "0",
+                "optie2": "0"
+            }
+
+        },
+        "12A": {
+            "gekozenLaag": "12A",
+            "dialogen": {
+                "dialoog1": "Je collega's blijven roepen en je zet je zelf zo voor schut",
+                "dialoog2": "Je moet je afvragen: Was deze hele dag niet zoveel gemakkelijker geweest... ",
+                "dialoog3": "...als je gewoon naar de kerstviering van je werk was gegaan?"
+            },
+            
+            "opties": {
+                "optie1": "klaar",
+                "optie2": "klaar"
+            },
+            "welkeOpties": {
+                "optie1": "0",
+                "optie2": "0"
+            }
+
+        },
+        "12B": {
+            "gekozenLaag": "12B",
+            "dialogen": {
+                "dialoog1": "Hij vraagt je naar je zogenaamde ongeluk/virusinfectie/domme smoes en je valt meteen door de mand.",
+                "dialoog2": "'Ik heb wel nog een kaartje voor je', zegt je collega, 'En er ligt nog een cadeau voor je klaar op werk.'",
+                "dialoog3": "'En er ligt nog een cadeau voor je klaar op het werk.'"
+            },
+            
+            "opties": {
+                "optie1": "Je biecht op dat jij niks voor hem hebt.",
+                "optie2": "Hij heeft wel duidelijk moeite gedaan en je begint je schuldig te voelen."
+            },
+            "welkeOpties": {
+                "optie1": "13A",
+                "optie2": "13B"
+            }
+
+        },
+        "13A": {
+            "gekozenLaag": "13A",
+            "dialogen": {
+                "dialoog1": "'Sorry, ik heb het in de winkel laten liggen.'",
+                "dialoog2": "'Sorry, ik heb het in de winkel laten liggen.'",
+                "dialoog3": "'Sorry, ik heb het in de winkel laten liggen.'"
+            },
+            
+            "opties": {
+                "optie1": "klaar",
+                "optie2": "klaar"
+            },
+            "welkeOpties": {
+                "optie1": "0",
+                "optie2": "0"
+            }
+
+        },
+        "13B": {
+            "gekozenLaag": "13B",
+            "dialogen": {
+                "dialoog1": "'Denk snel, wat kun je hem geven'",
+                "dialoog2": "Je denkt de hel ermee: ik geef hem die lullige VVV-cadeaubon van  20 piek ",
+                "dialoog3": "Je denkt de hel ermee: ik geef hem die lullige VVV-cadeaubon van  20 piek "
+            },
+            
+            "opties": {
+                "optie1": "klaar",
+                "optie2": "klaar"
+            },
+            "welkeOpties": {
+                "optie1": "0",
+                "optie2": "0"
+            }
+
+        },
+        "14A": {
+            "gekozenLaag": "14A",
+            "dialogen": {
+                "dialoog1": "Je baas: 'Jij idioot! Hoe kom je hieraan!?'",
+                "dialoog2": "Je biecht op dat je deze vlaai op de parkeerplaats hebt gekocht van verdachte verkopers en dat je dit niet had kunnen weten.",
+                "dialoog3": "Jouw idiote collega hoorde vanuit een andere ruimte een plof en hard geschreeuw van de baas over iets. Hij besluit polshoogte te komen nemen. Hij komt binnen."
+            },
+            
+            "opties": {
+                "optie1": "klaar",
+                "optie2": "klaar"
+            },
+            "welkeOpties": {
+                "optie1": "0",
+                "optie2": "0"
+            }
+
+        },
+        "14B": {
+            "gekozenLaag": "14B",
+            "dialogen": {
+                "dialoog1": "Je baas laat de vlaai in zijn kantoor staan en zegt later wel een manier te vinden om de vlaaivuurwerkbom te lozen.",
+                "dialoog2": "Jouw idiote collega hoorde vanuit een andere kamer een luide plof. Hij besluit polshoogte te komen nemen. Hij ziet de vlaai staan in het kantoor. Er zit een kaartje met zijn naam op.Hij ziet de vlaai staan in het kantoor. Er zit een kaartje met zijn naam op.",
+                "dialoog3": "Hij besluit er een hap van te nemen op te eten en vindt het zo attent van je."
+            },
+            
+            "opties": {
+                "optie1": "klaar",
+                "optie2": "klaar"
+            },
+            "welkeOpties": {
+                "optie1": "0",
+                "optie2": "0"
+            }
+
+        }
+
+
+
+
+
+    }
+}
+    
